@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.flexarcz.mrscenes",
+      "sha256_cert_fingerprints": [
+        "B3:80:67:57:2A:FD:42:8A:A0:3B:E8:07:41:6B:F9:BB:89:39:DE:59:5C:7F:63:E4:AC:C4:EB:59:1A:F5:FA:EC"
+      ]
+    }
+  }
+]
